@@ -65,7 +65,7 @@
                             }
                             else
                             {
-                                Console.WriteLine("You have choose adventure for creation of your enemy\nThen you can see status");
+                                Console.WriteLine("You have to choose adventure for creation of your enemy\nThen you can see status");
                             }
                             break;
                         case "4":
